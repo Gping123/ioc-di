@@ -1,0 +1,16 @@
+{
+    "name": "administrator/ioc-di",
+    "authors": [
+        {
+            "name": "Gping123",
+            "email": "1530188802@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Lib\\": "lib/",
+            "Src\\": "src/"
+        }
+    }
+}
